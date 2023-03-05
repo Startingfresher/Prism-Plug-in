@@ -6,11 +6,9 @@ license: GPL-3.0+
 version: v1.0
 shortDescription: Allows you to change your ship swizzle(colors, sort of) easily in game.
 description: >- 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant. Mauris augue neque gravida in. Ultricies integer quis auctor elit.
-  Suspendisse ultrices gravida dictum fusce ut placerat. Sollicitudin tempor id eu nisl nunc mi. Molestie at elementum eu facilisis sed odio morbi quis commodo.
-  Justo donec enim diam vulputate ut pharetra sit amet aliquam. Ut venenatis tellus in metus vulputate eu scelerisque felis.
-  Elementum curabitur vitae nunc sed velit. Sit amet consectetur adipiscing elit duis tristique sollicitudin nibh sit. Feugiat scelerisque varius morbi enim.
+  the plugin adds missions on every star that let you change your fleet swizzle 
+  to a few options. when you start the game you get access to two, eventually you 
+  will find all 6. look in the about.txt file for spoilers on where to get em.
 url: https://github.com/HelpfulContributor/ES-Plugin/archive/v1.1.zip
 iconUrl: https://raw.githubusercontent.com/HelpfulContributor/ES-Plugin/v1.1/icon.png
 autoupdate:
