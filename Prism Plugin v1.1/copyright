@@ -1,0 +1,17 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: endless-sky
+Upstream-Contact: Michael Zahniser <mzahniser@gmail.com>
+Source: https://github.com/endless-sky/endless-sky
+
+Files: *
+Copyright: Copyright Michael Zahniser <mzahniser@gmail.com>
+License: GPL-3+
+
+Files: images/*
+Copyright: Copyright Michael Zahniser <mzahniser@gmail.com>
+License: CC-BY-SA-4.0
+
+Files: */Paint missions.txt
+Copyright: Copyright Reed Cera 2023
+License: GPL-3+
+Comment: dude/dudette, i have no idea what im doing in this document, i guess i should mention that my file is a modification of the first file?
