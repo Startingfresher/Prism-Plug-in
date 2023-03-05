@@ -2,17 +2,15 @@ name: Prism Plugin
 authors: Startingfresher
 homepage: https://github.com/Startingfresher/Prism-Plug-in
 license: GPL-3.0+
-#i think this^ is right
 version: v1.0
 shortDescription: Allows you to change your ship swizzle(colors, sort of) easily in game.
 description: >- 
-  the plugin adds missions on every star that let you change your fleet swizzle 
-  to a few options. when you start the game you get access to two, eventually you 
-  will find all 6. look in the about.txt file for spoilers on where to get em.
-url: https://github.com/Startingfresher/Prism-Plug-in/raw/434f01e21b92aae3783376d7ec11d8a533847b35/Prism%20Plugin.zip
-iconUrl: https://raw.githubusercontent.com/HelpfulContributor/ES-Plugin/v1.1/icon.png
+  The plugin adds missions on every star that let you change your fleet swizzle 
+  to a few options. When you start the game you get access to two, eventually you 
+  will find all 6. Look in the about.txt file for spoilers on where to get em. It should
+  be mostly lore friendly.
+url: https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/v1.0.zip
+iconUrl: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Colorwheel.svg/2048px-Colorwheel.svg.png
 autoupdate:
   type: tag
-# We can omit `update_url`, since `homepage` also resolves to a valid git URL.
-  url: https://github.com/HelpfulContributor/ES-Plugin/archive/$version.zip # Specifies what to set `url` to if an update has been found. Notice the $version substitution
-  iconUrl: https://raw.githubusercontent.com/HelpfulContributor/ES-Plugin/$version/icon.png # Dito
+  url: https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/$version.zip
