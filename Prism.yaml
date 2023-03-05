@@ -10,7 +10,6 @@ description: >-
   will find all 6. Look in the about.txt file for spoilers on where to get em. It should
   be mostly lore friendly.
 url: https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/v1.0.zip
-iconUrl: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Colorwheel.svg/2048px-Colorwheel.svg.png
 autoupdate:
   type: tag
   url: https://github.com/Startingfresher/Prism-Plug-in/archive/refs/tags/$version.zip
