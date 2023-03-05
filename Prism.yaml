@@ -1,10 +1,11 @@
 name: Prism Plugin
 authors: Startingfresher
 homepage: https://github.com/Startingfresher/Prism_Plugin
-license: GPL-3.0-or-later
-version: v1.1
-shortDescription: A small plugin for Endless Sky expressing my compassion for the game!
-description: >- # One of the many ways to do multiline-strings in YAML. This version allows for linebreaks, but strips them away while parsing. See https://yaml-multiline.info/
+license: GPL-3.0+
+#i think this^ is right
+version: v1.0
+shortDescription: Allows you to change your ship swizzle(colors, sort of) easily in game.
+description: >- 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant. Mauris augue neque gravida in. Ultricies integer quis auctor elit.
   Suspendisse ultrices gravida dictum fusce ut placerat. Sollicitudin tempor id eu nisl nunc mi. Molestie at elementum eu facilisis sed odio morbi quis commodo.
