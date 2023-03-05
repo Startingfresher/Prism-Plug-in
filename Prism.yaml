@@ -9,7 +9,7 @@ description: >-
   the plugin adds missions on every star that let you change your fleet swizzle 
   to a few options. when you start the game you get access to two, eventually you 
   will find all 6. look in the about.txt file for spoilers on where to get em.
-url: https://github.com/HelpfulContributor/ES-Plugin/archive/v1.1.zip
+url: https://github.com/Startingfresher/Prism-Plug-in/raw/434f01e21b92aae3783376d7ec11d8a533847b35/Prism%20Plugin.zip
 iconUrl: https://raw.githubusercontent.com/HelpfulContributor/ES-Plugin/v1.1/icon.png
 autoupdate:
   type: tag
